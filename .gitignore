@@ -1,0 +1,7 @@
+
+# IntelliJ Idea ignore
+/.idea/
+dataextractor.iml
+
+# Maven ignore
+/target/
